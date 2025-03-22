@@ -1,0 +1,14 @@
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\bin\Debug\net8.0\DesafioPratico_01.exe
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\bin\Debug\net8.0\DesafioPratico_01.deps.json
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\bin\Debug\net8.0\DesafioPratico_01.runtimeconfig.json
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\bin\Debug\net8.0\DesafioPratico_01.dll
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\bin\Debug\net8.0\DesafioPratico_01.pdb
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\DesafioPratico_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\DesafioPratico_01.AssemblyInfoInputs.cache
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\DesafioPratico_01.AssemblyInfo.cs
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\DesafioPratico_01.csproj.CoreCompileInputs.cache
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\DesafioPratico_01.dll
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\refint\DesafioPratico_01.dll
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\DesafioPratico_01.pdb
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\DesafioPratico_01.genruntimeconfig.cache
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\ref\DesafioPratico_01.dll
