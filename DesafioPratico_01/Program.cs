@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Exercicio03();
+        Exercicio04();
     }
 
     static void Exercicio01()
@@ -19,11 +19,11 @@ class Program
     {
         // Solicitando o nome
         Console.WriteLine("Digite seu nome:");
-        string nome = Console.ReadLine();
+        var nome = Console.ReadLine();
 
         // Solicitando o sobrenome
         Console.WriteLine("Digite seu sobrenome:");
-        string sobrenome = Console.ReadLine();
+        var sobrenome = Console.ReadLine();
 
         string nomeCompleto = nome + " " + sobrenome;
 
@@ -34,11 +34,11 @@ class Program
     {
         // Solicitando o primeiro número.
         Console.WriteLine("Digite um número: ");
-        double numero01 = double.Parse(Console.ReadLine());
+        var numero01 = double.Parse(Console.ReadLine());
 
         // Solicitando o segundo número.
         Console.WriteLine("Digite outro número: ");
-        double numero02 = double.Parse(Console.ReadLine());
+        var numero02 = double.Parse(Console.ReadLine());
 
         // Soma
         Console.WriteLine($"Soma: {numero01 + numero02}");
@@ -54,5 +54,13 @@ class Program
 
         // Média
         Console.WriteLine($"Média: {(numero01 + numero02) / 2}");
+    }
+
+    static void Exercicio04()
+    {
+        Console.WriteLine("Digite uma ou mais palavras: ");
+        var palavras = Console.ReadLine();
+
+        Console.WriteLine($"Você digitou [{palavras}] que tem {palavras.Replace(" ", "").Length} caracteres");
     }
 }
