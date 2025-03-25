@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Exercicio02();
+        Exercicio03();
     }
 
     static void Exercicio01()
@@ -28,5 +28,31 @@ class Program
         string nomeCompleto = nome + " " + sobrenome;
 
         Console.WriteLine(nomeCompleto);
+    }
+
+    static void Exercicio03()
+    {
+        // Solicitando o primeiro número.
+        Console.WriteLine("Digite um número: ");
+        double numero01 = double.Parse(Console.ReadLine());
+
+        // Solicitando o segundo número.
+        Console.WriteLine("Digite outro número: ");
+        double numero02 = double.Parse(Console.ReadLine());
+
+        // Soma
+        Console.WriteLine($"Soma: {numero01 + numero02}");
+
+        // Subtração
+        Console.WriteLine($"Subtração: {numero01 - numero02}");
+
+        // Multiplicação
+        Console.WriteLine($"Multiplicação: {numero01 * numero02}");
+
+        // Divisão
+        if (numero02 != 0) Console.WriteLine($"Divisão: {numero01 / numero02}"); else Console.WriteLine($"Divisão: O número não pode ser divisível por 0");
+
+        // Média
+        Console.WriteLine($"Média: {(numero01 + numero02) / 2}");
     }
 }

@@ -12,3 +12,4 @@ C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPrati
 C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\DesafioPratico_01.pdb
 C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\DesafioPratico_01.genruntimeconfig.cache
 C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\ref\DesafioPratico_01.dll
+C:\Users\M4the\Documents\Programação\Nova pasta\DesafioPratico_01\DesafioPratico_01\obj\Debug\net8.0\DesafioPratico_01.sourcelink.json
